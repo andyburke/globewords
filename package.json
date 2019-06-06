@@ -1,0 +1,14 @@
+{
+  "name": "globewords",
+  "version": "0.1.0",
+  "description": "",
+  "main": "globewords.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andy Burke <andy.burke@mailbox.earth>",
+  "license": "MIT",
+  "dependencies": {
+    "simplecoder": "^3.0.0"
+  }
+}
